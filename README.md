@@ -1,6 +1,5 @@
 # AipoFranz
-Add service of Aipo.com
-[About Aipo](https://aipo.com/)
+Add service of Aipo.com. Please check this web site about Aipo -> [About Aipo](https://aipo.com/)
 
 ## How to use (Franz 5.1.0)
 1. make dev folder (C:\Users\-UserName-\AppData\Roaming\Franz\recipes\dev)
