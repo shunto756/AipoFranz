@@ -1,0 +1,15 @@
+{
+  "id": "Aipo",
+  "name": "Aipo",
+  "version": "1.1",
+  "description": "Aipo",
+  "main": "index.js",
+  "author": "Shunto Yamashita <yamashun756@gmail.com>",
+  "license": "MIT",
+  "repository": "",
+  "config": {
+    "serviceURL": "https://login.aipo.com/",
+    "hasNotificationSound": true
+  },
+  "openDevTools": false	
+}
